@@ -1,7 +1,7 @@
 # Willy Brener Alves Oliveira
 
 # Regras do jogo
-- O Jogo do Milhão é um jogo de perguntas e respostas onde o jogador pode acumular prêmios em dinheiro respondendo corretamente às perguntas. Cada pergunta tem um valor associado, e o jogador pode decidir parar o jogo a qualquer momento para garantir a quantia acumulada até aquele momento.
+- O Jogo "Show do Milhão" é um jogo de perguntas e respostas onde o jogador pode acumular prêmios em dinheiro respondendo corretamente às perguntas. Cada pergunta tem um valor associado, e o jogador pode decidir parar o jogo a qualquer momento para garantir a quantia acumulada até aquele momento.
 
 ## Como Jogar
 - O jogo apresentará perguntas com alternativas.
