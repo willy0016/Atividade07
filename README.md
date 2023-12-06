@@ -11,7 +11,7 @@
 
 ## Como executar
 - Certifique-se de ter o node.js instalado no seu PC
-- Abra a pasta do jogo
+- Abra a pasta do jogo "Atividade07"
 - Em uma area em branco clique com o botão direito do mouse para abrir as opções
 - Nas opções que abriram clique em "abrir no terminal"
 - No terminal digite "npm start" para iniciar o jogo
