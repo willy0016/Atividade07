@@ -1,0 +1,15 @@
+{
+  "name": "atividade07",
+  "version": "1.0.0",
+  "description": "Jogo do Milhão",
+  "main": "showDoMilhao.js",
+  "scripts": {
+    "start": "node showDoMilhao.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Willy Brener",
+  "license": "MIT",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
