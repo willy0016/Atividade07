@@ -81,7 +81,6 @@ const perguntas = [
       alternativas: ['A) Núcleo', 'B) Manto', 'C) Crosta'],
       resposta: 'C'
     },
-    // Adicione mais perguntas conforme necessário
   ];
   
 
