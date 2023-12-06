@@ -22,6 +22,7 @@ Este projeto foi desenvolvido com base em conhecimentos adquiridos durante meu a
 
 - Comunidade Stack Overflow por fornecer soluções para desafios específicos encontrados durante o desenvolvimento.
 
-## License
-Este projeto é distribuído sob a licença MIT.
+## Licença
+
+Licença MIT.
 
