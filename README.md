@@ -15,6 +15,7 @@
 - Em uma area em branco clique com o botão direito do mouse para abrir as opções
 - Nessas opções clique em "abrir no terminal"
 - No terminal digite "npm start" para iniciar o jogo
+- E siga as instruções que irão aparecer no terminal
 
 ## Créditos
 
